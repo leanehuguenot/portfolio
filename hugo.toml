@@ -1,4 +1,4 @@
-baseurl = "https://leanehuguenot.github.io/"
+baseurl = "https://leanehuguenot.github.io/portfolio/"
 title = "Léane Huguenot"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
