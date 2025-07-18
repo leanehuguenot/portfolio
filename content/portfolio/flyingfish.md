@@ -13,11 +13,12 @@ weight = 3
 
 🎵 Cette réalisation a été fait pour le groupe Flying Fish!
 
-🎸 Après avoir collaboré en 2021 sur la pochette de leur album “Classic Sheet”, nous collaborons à nouveau pour leur concert à La Java Discothèque.
+🎸 Après avoir collaboré en 2021 sur la pochette de leur album "Classic Sheet", nous collaborons à nouveau pour leur **concert** à La Java Discothèque.
 
-🎺 Pour cette date importante, je les ai accompagnés avec une création originale, et un déploiement print (Affiche, Flyer) et la communication sur les réseaux sociaux.
+🎺 Pour cette **date importante**, je les ai accompagnés avec une **création originale**, et un **déploiement print** (Affiche, Flyer) et la **communication** sur les **réseaux sociaux**.
 
-👌🏻 Une date qui laissera de bons souvenirs et un evenement musical réussi pour le groupe!
+👌🏻 Une date qui laissera de bons souvenirs et un **evenement musical** réussi pour le groupe!
+
 
 ![This is me][1]
 ![This is me][2]
