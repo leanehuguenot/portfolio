@@ -3,8 +3,8 @@ image = "img/stopausilence/img_stopausilence_01.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Stop au silence"
-weight = 3
+title = "STOP AU SILENCE"
+weight = 5
 +++
 
 

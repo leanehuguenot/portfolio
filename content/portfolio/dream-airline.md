@@ -3,8 +3,8 @@ image = "img/dreamairline/img-dreamairline-01.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Dream Airline"
-weight = 3
+title = "DREAM AIRLINE"
+weight = 1
 +++
 
 [ CHALLENGE UX/UI]

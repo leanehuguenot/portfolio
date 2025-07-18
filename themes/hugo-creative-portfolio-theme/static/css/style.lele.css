@@ -52,7 +52,7 @@ section.background-secondary {
 }
 .italic {
   font-style: italic;
-  font-family: "Georgia", "Times New Roman", Times, serif;
+  font-family: "Courier Prime", monospace;
 }
 .img-responsive {
   margin: 0 auto;
@@ -945,7 +945,7 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  font-family: 'FontAwesome';
+  font-family: "Courier Prime", monospace;
   content: '\f105';
   text-align: center;
   font-size: 50px;
@@ -1296,7 +1296,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* navbar */
 .navbar {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Courier Prime", monospace;
   min-height: 80px;
   margin-bottom: 0;
   border-top: none;
@@ -1583,7 +1583,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* scaffolding */
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Courier Prime", monospace;
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
@@ -1659,7 +1659,7 @@ hr {
 /* buttons  */
 .btn {
   font-weight: 400;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Courier Prime", monospace;
   padding: 6px 12px;
   font-size: 16px;
   line-height: 1.55;
@@ -1778,7 +1778,7 @@ fieldset[disabled] .btn-transparent.active {
 }
 /* labels */
 .label {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Courier Prime", monospace;
   font-weight: normal;
   text-transform: uppercase;
 }
@@ -1832,7 +1832,7 @@ label {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 14px;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Courier Prime", monospace;
   font-weight: bold;
 }
 .pager li {
@@ -1861,7 +1861,7 @@ label {
 /* pagination */
 .pagination {
   margin: 24px 0;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Courier Prime", monospace;
   border-radius: 0;
 }
 .pagination > li > a,
@@ -1947,7 +1947,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Courier Prime", monospace;
   font-weight: 700;
   line-height: 1.2;
   color: #000000;

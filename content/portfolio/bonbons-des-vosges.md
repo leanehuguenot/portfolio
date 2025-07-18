@@ -3,8 +3,8 @@ image = "img/bonbonsdesvosges/img-bonbonsdesvosges-01.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Bonbons des Vosges"
-weight = 3
+title = "BONBONS DES VOSGES"
+weight = 2
 +++
 
 [ CHALLENGE CRÉATIF ]

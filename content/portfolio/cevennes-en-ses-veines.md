@@ -3,8 +3,8 @@ image = "img/restaurantcevennes/img-cevennesensesveines-01.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Cévennes en ses Veines"
-weight = 3
+title = "CÉVENNES EN SES VEINES"
+weight = 12
 +++
 
 [ CRÉATION DE MARQUE ]

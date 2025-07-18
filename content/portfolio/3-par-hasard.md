@@ -3,8 +3,8 @@ image = "img/3parhasard/img-3parhasard-01.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Les 3 par hasard"
-weight = 3
+title = "LES 3 PAR HASARD"
+weight = 10
 +++
 
 

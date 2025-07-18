@@ -3,8 +3,8 @@ image = "img/3artsenscene/img-3artsenscene-01.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "3 arts en scène"
-weight = 3
+title = "3 ARTS EN SCÈNE"
+weight = 11
 +++
 
 [ COMMUNICATION ]
@@ -13,10 +13,10 @@ weight = 3
 🎭 C’est une association événementielle mettant en scène des spectacles vivants avec du théâtre, de la danse, du chant et un orchestre live.
 
 📌 J’ai accompagnée l’asso dans leur **direction artistique** :
-- Un **logo** : créé lorsque j’étais encore étudiante, et même si aujourd’hui je l’aurais exécuté un peu différemment, il vit toujours!
-- Une  **direction artistique** claire et posée dans une **mini charte graphique** 
-- Des **supports print** (flyers, cartes de visite)
-- Du merchandising à vendre lors des représentation de spéctacle
+* Un **logo** : créé lorsque j’étais encore étudiante, et même si aujourd’hui je l’aurais exécuté un peu différemment, il vit toujours!
+* Une  **direction artistique** claire et posée dans une **mini charte graphique** 
+* Des **supports print** (flyers, cartes de visite)* 
+* Du merchandising à vendre lors des représentation de spéctacle
 
 👌🏻 Une association active, créative, à l’accueil familial, bref : un plaisir !
 

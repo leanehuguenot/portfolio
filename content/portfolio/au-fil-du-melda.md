@@ -3,8 +3,8 @@ image = "img/aufildumelda/img-aufildumelda-01.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Au fil du melda"
-weight = 3
+title = "AU FIL DU MELDA"
+weight = 6
 +++
 
 [ REFONTE DE MARQUE ]
