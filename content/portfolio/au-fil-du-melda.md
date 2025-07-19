@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "AU FIL DU MELDA"
-weight = 6
+weight = 7
 +++
 
 [ REFONTE DE MARQUE ]
@@ -25,7 +25,7 @@ weight = 6
 ![This is me][6]
 ![This is me][5]
 
-[1]: /img/aufildumelda/Img-aufildumelda-01.png
+[1]: /img/aufildumelda/img-aufildumelda-01.png
 [2]: /img/aufildumelda/img-aufildumelda-02.png
 [3]: /img/aufildumelda/img-aufildumelda-03.png
 [4]: /img/aufildumelda/img-aufildumelda-04.png
