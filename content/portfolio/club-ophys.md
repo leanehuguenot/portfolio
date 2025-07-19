@@ -23,13 +23,13 @@ weight = 4
 
 👌🏻  Une collaboration très agréable !
 
-![This is me][1]
-![This is me][2]
-![This is me][3]
-![This is me][4]
-![This is me][5]
-![This is me][6]
-![This is me][7]
+![Logo][1]
+![Couleurs primaires et typographies][2]
+![Posts linkedIn][3]
+![Affiche et cube salon][4]
+![Fiche technique][5]
+![Couleurs secondaires par catégories][6]
+![Flyers catégories][7]
 
 [1]: /img/clubophys/img-clubophys-01.png
 [2]: /img/clubophys/img-clubophys-02.png

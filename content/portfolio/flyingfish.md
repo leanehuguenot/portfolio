@@ -17,7 +17,7 @@ weight = 8
 
 🎺 Pour cette **date importante**, je les ai accompagnés avec une **création originale**, et un **déploiement print** (Affiche, Flyer) et la **communication** sur les **réseaux sociaux**.
 
-👌🏻 Une date qui laissera de bons souvenirs et un **evenement musical** réussi pour le groupe!
+👌🏻 Une date qui laissera de bons souvenirs et un **événement musical** réussi pour le groupe!
 
 
 ![This is me][1]

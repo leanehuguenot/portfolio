@@ -7,7 +7,7 @@ title = "DREAM AIRLINE"
 weight = 1
 +++
 
-[ CHALLENGE UX/UI]
+[ CHALLENGE UX/UI ]
 <!--more-->
 
 ✈️ Partir en vacances… On en rêve toute l’année. 
@@ -18,11 +18,11 @@ weight = 1
 
 👀 Une interface avec une réflexion d’UX/UI qui donne envie de prendre ses billets là, maintenant, tout de suite!
 
-![This is me][1]
-![This is me][2]
-![This is me][3]
-![This is me][4]
-![This is me][5]
+![logo][1]
+![Mockup site responsive][2]
+![Pages desktop][3]
+![Maquette figma][4]
+![Mockup page du site][5]
 
 [1]: /img/dreamairline/img-dreamairline-01.png
 [2]: /img/dreamairline/img-dreamairline-02.png

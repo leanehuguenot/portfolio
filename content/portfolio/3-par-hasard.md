@@ -19,11 +19,11 @@ weight = 10
 
 👌🏻 Une chose est sûre, jamais je ne rirai autant pour un projet à l’avenir !
 
-![This is me][1]
-![This is me][2]
-![This is me][3]
-![This is me][4]
-![This is me][5]
+![Logo][1]
+![Affiche dans un kiosque][2]
+![Visuels affiche][3]
+![Screenshot programmation][4]
+![Flyer scotché sur un lampadadaire][5]
 
 [1]: /img/3parhasard/img-3parhasard-01.png
 [2]: /img/3parhasard/img-3parhasard-02.png

@@ -21,12 +21,12 @@ weight = 12
 
 👀 Nelly a même peint à la main ce logo qu’elle affectionne sur sa devanture! J’ai été très heureuse de travailler avec ce couple de **passionnés de cuisine**.
 
-![This is me][1]
-![This is me][2]
-![This is me][3]
-![This is me][4]
-![This is me][6]
-![This is me][5]
+![Logo][1]
+![Cartes de visites][2]
+![Tampon et cire][4]
+![Logo slogan et devanture][6]
+![Devanture][5]
+![Timbre postal][3]
 
 [1]: /img/restaurantcevennes/img-cevennesensesveines-01.png
 [2]: /img/restaurantcevennes/img-cevennesensesveines-02.png

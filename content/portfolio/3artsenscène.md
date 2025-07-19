@@ -20,12 +20,12 @@ weight = 11
 
 👌🏻 Une association active, créative, à l’accueil familial, bref : un plaisir !
 
-![This is me][1]
-![This is me][2]
-![This is me][3]
-![This is me][4]
-![This is me][5]
-![This is me][6]
+![Logo][1]
+![Couleurs et typographies][2]
+![Flyers d'appel au soutien][3]
+![Posts instagram][4]
+![Page facebook][5]
+![Tote bag et ecocup][6]
 
 
 [1]: /img/3artsenscene/img-3artsenscene-01.png

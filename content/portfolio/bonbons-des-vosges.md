@@ -26,16 +26,16 @@ weight = 2
 👌🏻 Un réel plaisir de bosser sur ce rebranding fictif sur mon temps libre et sans limite à ma **créativité**!
 
 
-![This is me][1]
-![This is me][2]
-![This is me][3]
-![This is me][4]
-![This is me][5]
-![This is me][6]
-![This is me][10]
-![This is me][7]
-![This is me][8]
-![This is me][9]
+![Logo][1]
+![Couleurs et typographies][2]
+![Posts instagram][3]
+![Catalogue][4]
+![Logo crayonné et cartes de visites][5]
+![Mockup site e-commerce][6]
+![Maquette figma e-commerce][10]
+![Homme portant un tote bag][7]
+![Stickers et mug][8]
+![Devanture de la boutique][9]
 
 [1]: /img/bonbonsdesvosges/img-bonbonsdesvosges-01.png
 [2]: /img/bonbonsdesvosges/img-bonbonsdesvosges-02.png
