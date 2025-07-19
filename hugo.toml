@@ -27,7 +27,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "A propos"
-  url = "about/"
+  url = "apropos/"
 
   #[[params.navlinks]]
   #name = "Affiches en vrac"
