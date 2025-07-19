@@ -18,7 +18,7 @@ Créative et passionnée, j’accompagne depuis plusieurs années entrepriseset 
 
 **Namkin**
   <br/>Graphiste (CDI)
-  <br/>Août 2020 - décembre 2023
+  <br/>2020 - 2024
   - UX/UI design (Maquette figma en lien avec l'équipe front, sprint design...)
   - Création et refonte de marque, direction artistique
   - Déploiement multicanal (supports imprimés, digitaux, salons...)
@@ -30,15 +30,22 @@ Créative et passionnée, j’accompagne depuis plusieurs années entrepriseset 
 
 **IUT de Troyes (section MMI)** 
   <br/>Enseignante vacataire
-  <br/>Année 2023 - 2024
+  <br/>2023 - 2024
   - Cours de typographie (3ème années)
   - Cours de direction artistique (1ère année)
 
   <br>
 
+  **Supinfo** 
+  <br/>Enseignante vacataire
+  <br/>2020
+  - Cours de cohérence graphique (3ème années)
+
+  <br>
+
   **SINFIN** 
   <br/>Graphiste (Stage)
-  <br/>Année 2016
+  <br/>2016
   - Création et exécution de visuels
   - Maquettage web en collaboration avec l'équipe front
 
