@@ -12,7 +12,7 @@ weight = 1
 
 ✈️ Partir en vacances… On en rêve toute l’année. 
 
-☀️ Mais, comment ça se passe niveau UX/UI pour prendre des billets d’avions pour le soleil?
+☀️ Mais, comment ça se passe niveau UX/UI pour prendre des billets d’avion pour le soleil?
 
 📌 Pour m’exercer, je me suis imaginé un site de booking, avec toutes les contraintes que cela impose.
 

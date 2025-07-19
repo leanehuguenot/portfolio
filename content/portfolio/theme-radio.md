@@ -13,7 +13,7 @@ weight = 9
 
 🎙️ Pour ce projet j’ai accompagné Thème Radio, une radio locale troyenne dans la refonte de sa marque!
 
-📌 Je leur ai créé un **logo** une **charte graphique** sur mesure. Mon rôle a également été de les orienter vers une nouvelle **diretion artistique** pour qu'ils puissent ensuite faire vivre tout ça.
+📌 Je leur ai créé un **logo** et une **charte graphique** sur mesure. Mon rôle a également été de les orienter vers une nouvelle **diretion artistique** pour qu'ils puissent ensuite faire vivre tout ça.
 
 👀 Une belle collaboration qui marque un renouveau pour la radio! Je suis heureuse d'avoir pu les accompagner dans cette étape de nouvelle **identité visuelle**
 

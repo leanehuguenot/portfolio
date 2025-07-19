@@ -15,7 +15,7 @@ weight = 5
 
 📌 Je me suis investie à leurs côtés à leurs débuts en leur créant un **logo**, ainsi qu’une **direction artistique** dynamique et marquante. Puis j’ai été aux commande de la création des posts sur les réseaux sociaux pendant quelques temps.
 
-💜 Une collaboration bénévole lourde de sens pour moi, heureuse d’avoir pu oeuvrer à mon niveau pour une cause importante en leur offrant une **identité visuelle**
+💜 Une collaboration bénévole, je suis heureuse d’avoir pu oeuvrer à mon niveau pour une cause importante en leur offrant une **identité visuelle**
 
 ![This is me][1]
 ![This is me][2]

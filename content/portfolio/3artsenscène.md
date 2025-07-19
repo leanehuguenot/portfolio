@@ -12,7 +12,7 @@ weight = 11
 
 🎭 C’est une association événementielle mettant en scène des spectacles vivants avec du théâtre, de la danse, du chant et un orchestre live.
 
-📌 J’ai accompagnée l’asso dans leur **direction artistique** :
+📌 J’ai accompagné l’asso dans leur **direction artistique** :
 * Un **logo** : créé lorsque j’étais encore étudiante, et même si aujourd’hui je l’aurais exécuté un peu différemment, il vit toujours!
 * Une  **direction artistique** claire et posée dans une **mini charte graphique** 
 * Des **supports print** (flyers, cartes de visite)* 

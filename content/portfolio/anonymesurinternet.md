@@ -32,7 +32,7 @@ Au verso, sont cités des références, des passages d’interview, études, mus
 ![This is me][4]
 
 
-🎨 Une réalisation en sérigraphie avec l’atelier OASP, qui m’a accompagnée avec beaucoup de bienveillance dans l’impression de l’encre blanc sur du papier noir. Coupé et assemblé à la fin : un loporello de plus de 4m de long, plié avec soin dans une coque en PVC. Sur la couverture, une simple inscription : -12 ans, faisant écho à la classification des œuvres cinématographiques.
+🎨 Une réalisation en sérigraphie avec l’atelier OASP, qui m’a accompagnée avec beaucoup de bienveillance dans l’impression de l’encre blanche sur du papier noir. Coupé et assemblé à la fin : un loporello de plus de 4m de long, plié avec soin dans une coque en PVC. Sur la couverture, une simple inscription : -12 ans, faisant écho à la classification des œuvres cinématographiques.
 
 ![This is me][5]
 

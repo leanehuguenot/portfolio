@@ -15,13 +15,13 @@ weight = 4
 
 📌 J’ai eu le plaisir de les accompagner dans leur **direction artistique**. Leur logo étant déjà établi, certaines couleurs et typographies aussi, leur désir était de mettre un peu d’ordre dans tout ça. Notre travail ensemble a donné lieu à : 
 - Une manière caractéristique d’utiliser la **typographie**
-- Un travail de **colorimétrie** globale : Des couleurs primaire, et des couleurs secondaires par secteurs, le tout dans une harmonie globale
+- Un travail de **colorimétrie** globale : Des couleurs primaires, et des couleurs secondaires par secteurs, le tout dans une harmonie globale
 - Des **supports print** (flyers, affiches et fiches techniques)
 - Des **kakémonos** pour leurs salons
 - Du **contenu visuel** pour leur communication digitale
 - Une **charte graphique** détaillée et complète
 
-👌🏻  Une collaboration très agréable avec un client vraiment bienveillant !
+👌🏻  Une collaboration très agréable !
 
 ![This is me][1]
 ![This is me][2]

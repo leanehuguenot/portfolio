@@ -10,18 +10,18 @@ weight = 2
 [ CHALLENGE CRÉATIF ]
 <!--more-->
 
-🌲Vous connaissez peut-être la **Confiserie des Haurtes-Vosges** et ses célèbres bonbons colorés. 
+🌲Vous connaissez peut-être la **Confiserie des Hautes Vosges** et ses célèbres bonbons colorés. 
 
 🍬 Je suis gaga de cette marque et je commande souvent chez eux, notamment pour leurs brisures de bonbons pour infusions.
 
 📌 Pour l’exercice et pour le plaisir, je me suis imaginé un **rebranding** pour cette marque que j'adore :
-- Un nouveau **naming** pour la marque! Les acronymes.. Je n’en suis pas mordue! J’aime autant que l’on parle de cette entreprise comme la seule et l'unique qui confectionne **LES** «Bonbons des Vosges». D'où ce nouveau nom.
+- Un nouveau **naming** pour la marque! Les acronymes.. Je n’en suis pas mordue! J’aime autant que l’on parle de cette entreprise comme la seule et l'unique qui confectionne **LES** «Bonbons des Vosges». D'où ce nouveau nom.
 - Une **image de marque** aux couleurs peps (RVB coucou)
 - Un nouveau **logo** (avec une version verticale et une verson horizontale)
 - De l’**illustration** pour ajouter un peu de fun à l’identité visuelle
-- De la **papéterie** flash et assumées
+- De la **papeterie** flash et assumée
 - Une maquette **figma** pour un nouveau site e-commerce
-- Quelques produits dérivés et un **merchandising** corporate et qui donc envie !
+- Quelques produits dérivés et un **merchandising** corporate et qui fait envie !
 
 👌🏻 Un réel plaisir de bosser sur ce rebranding fictif sur mon temps libre et sans limite à ma **créativité**!
 

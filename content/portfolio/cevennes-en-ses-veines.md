@@ -12,7 +12,7 @@ weight = 12
 
 🍽️  Ce projet m’a permis de faire la connaissance de Jean-Yves et Nelly, restaurateurs dans les Cévennes.
 
-👩🏻‍🍳 J’avais loué leur air bnb u fond du jardin et pour le soir de mon anniversaire : ils m’ont gentillement invitée à leur table et m’ont offert un merveilleux repas. Au fil des discussions, ils comprennent que je peux les aider dans l’identité visuelle de leur nouveau restaurant.
+👩🏻‍🍳 J’avais loué leur air bnb au fond du jardin, un soir ils m’ont gentillement invitée à leur table et m’ont offert un merveilleux repas. Au fil des discussions, ils comprennent que je peux les aider dans l’identité visuelle de leur nouveau restaurant.
 
 📌 C’est avec plaisir que je les ai accompagnés dans leur **direction artistique** :
 - Un **logo** : Nelly avait déjà une idée très avancée de ce qu’elle voulait, je n’ai eu qu’à le **vectoriser** pour lui donner vie
