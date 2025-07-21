@@ -17,12 +17,8 @@
 {{- with or .Params.locale  }}
   <meta property="og:locale" content="{{ replace . `-` `_` }}">
 {{- end }}
+   <meta property="og:image" content="/img/pre-visu-web.png3">
 
-{{- with partial "_funcs/get-page-images" . }}
-  {{- range . | first 6 }}
-    <meta property="og:image" content="{{ .Permalink }}">
-  {{- end }}
-{{- end }}
 
   <meta property="og:type" content="website">
 
