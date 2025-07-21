@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "A propos"
+title = "A PROPOS"
 +++
 
 Créative et passionnée, j’accompagne depuis plusieurs années entrepriseset particuliers dans la création et la réalisation de leurs projets, en freelance ou en entreprise. Spécialisée en UX/UI design, création d’identités visuelles et déploiement 360° (print, digital, salons, etc.), je veille à respecter la direction artistique tout en concevant des visuels qui leur ressemblent.

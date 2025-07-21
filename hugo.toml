@@ -12,9 +12,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "lele"
   description = "Graphiste passionnée en UX/UI & identité visuelle. Création d’univers sur-mesure avec déploiement 360°, fidèle à votre direction artistique."
-  # copyright = "Léane Huguenot｜ 0658912479｜leane.huguenot@gmail.com"
+  copyright = "0658912479｜leane.huguenot@gmail.com"
   sidebarAbout = [
-    "Graphic designer"
+    "Designer graphique"
   ]
 
   email = "leane.huguenot@gmail.com"
