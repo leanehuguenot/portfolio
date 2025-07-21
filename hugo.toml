@@ -16,6 +16,8 @@ enableRobotsTXT = true
   sidebarAbout = [
     "Designer graphique"
   ]
+  images = ['img/pre-visu-web.png']
+
 
   email = "leane.huguenot@gmail.com"
 

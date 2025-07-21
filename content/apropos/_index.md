@@ -5,7 +5,7 @@ title = "A PROPOS"
 
 Créative et passionnée, j’accompagne depuis plusieurs années entrepriseset particuliers dans la création et la réalisation de leurs projets, en freelance ou en entreprise. Spécialisée en UX/UI design, création d’identités visuelles et déploiement 360° (print, digital, salons, etc.), je veille à respecter la direction artistique tout en concevant des visuels qui leur ressemblent.
 
-<a href="/img/cv-leane-huguenot.pdf" class="btn-cv" download>Télécharger mon CV</a>
+<a href="/img/cv-leane-huguenot-2025.pdf" class="btn-cv" download>Télécharger mon CV</a>
 
   #### Pour me contacter
 
