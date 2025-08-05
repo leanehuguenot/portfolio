@@ -79,7 +79,7 @@ weight = 0
 <div class="row media-block">
     <div class="col-sm-12">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BY3Pt5xu2KU?si=6HXcsCjGdUMv85f1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZimUvQsSl0k?si=P0mrShxHp1lhTUnS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -87,10 +87,11 @@ weight = 0
 
 🌙 Nooom... C'est ma façon de m'exprimer, c'est mon exutoire. 
 
+
 <div class="row media-block">
     <div class="col-sm-12">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZimUvQsSl0k?si=P0mrShxHp1lhTUnS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BY3Pt5xu2KU?si=6HXcsCjGdUMv85f1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
