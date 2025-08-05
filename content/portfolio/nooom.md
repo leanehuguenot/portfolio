@@ -8,10 +8,10 @@ weight = 0
 +++
 
 
-[ MULTI-TOOL BENEVOLE ]
+[ MUSIQUE & COMMUNICATION ]
 <!--more-->
 
-🫣 Nooom... C'est mon nom de scène lorsque je fais de la musique.
+💁🏻‍♀️ Nooom... C'est mon nom de scène lorsque je fais de la musique.
 
 
 ![Logo][1]
@@ -30,7 +30,7 @@ weight = 0
   </div>
 </p>
 
-📌 C'est 1 album, 3 EPs, quelques singles, disponibles sur **spotify**, **youtube**, **deezer**, **apple musique**, **bandcamp** et toutes les autres plateformes d'écoute.
+📌 C'est 1 album, 3 EPs, quelques singles, disponibles sur <a href="https://open.spotify.com/intl-fr/artist/2onf6pDejZ19BQ5i8YxobO?si=C3eVCYGAQbiaHnn2GF_-yw" class="text-primary">Spotify</a>, <a href="https://www.youtube.com/@nooom_off" class="text-primary">Youtube</a>, <a href="deezer.com/en/artist/95547772" class="text-primary">Deezer</a>, <a href="https://nooom.bandcamp.com/" class="text-primary">Bandcamp</a>, et toutes les autres plateformes d'écoute.
 
 ![Univers papillons 2024][4]
 ![Communication reseaux sociaux papillons 2024][5]
@@ -44,7 +44,7 @@ weight = 0
   </div>
 </p>
 
-🎉 C'est des **concerts**, dans des bars, dans des petites salles, dans des restaurants, c'est des affiches créées exprès, placardées dans la ville. C'est des moments musicaux pendant des soirées entre amis et pendant des repas de famille. C'est de la musique qui rassemble par les émotions.
+🎉 C'est des <a href="https://youtu.be/y3_Dj_sHUMY" class="text-primary">lives</a>, des concerts, solo, en groupe, en co-plateaux, dans des bars, dans des petites salles, dans des restaurants, sur des plateaux télé, c'est des affiches créées exprès, placardées dans la ville. C'est des moments musicaux pendant des soirées entre amis et pendant des repas de famille. C'est de la musique qui rassemble par les émotions.
 
 ![Univers a vos marques 2022][6]
 ![Communication reseaux sociaux a vos marques 2022][7]
@@ -58,8 +58,10 @@ weight = 0
   </div>
 </p>
 
-📲 C'est des centaines de **posts**, de **reels**, de **clips** de **vidéos** postées sur les **réseaux sociaux**. 
+📲 C'est des centaines de **posts**, de **reels**, de **clips** de **vidéos** postées sur les <a href="https://linktr.ee/nooom_off" class="text-primary">Réseaux sociaux</a>. 
 
+![Univers Aparte 2019][8]
+![Communication reseaux sociaux Aparte 2019][9]
 
 <div class="row media-block">
     <div class="col-sm-12">
@@ -70,11 +72,8 @@ weight = 0
   </div>
 </p>
 
-![Univers Aparte 2019][8]
-![Communication reseaux sociaux Aparte 2019][9]
 
-
-👌🏻 Ce n'est pas que moi, c'est aussi une clique de professionnels et de passionés de musiques qui m'épaulent et collaborent sur le projet à travers la france... et même jusqu'au Quebec!
+👌🏻 Ce n'est pas que moi, c'est aussi une clique de professionnels et de passionés de musiques qui m'épaulent et collaborent sur le projet à travers la france... et même jusqu'au Quebec (<a href="https://open.spotify.com/intl-fr/track/0NyhAtRM4o8SAWEdIflxby?si=ec3e1156c5484d98" class="text-primary">Feat avec Noé Talbot</a>)!
 
 <div class="row media-block">
     <div class="col-sm-12">
