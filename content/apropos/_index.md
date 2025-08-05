@@ -52,6 +52,12 @@ Créative et passionnée, j’accompagne depuis plusieurs années entreprises et
 
   <br>
 
+#### Investissement bénévole
+
+**Nooom**
+  <br/>Projet musical 
+  <br/>Depuis 2019
+
 #### Formation
 
 **Bachelor designer concepteur communication visuelle**

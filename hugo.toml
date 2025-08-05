@@ -50,6 +50,7 @@ enableRobotsTXT = true
 #  gitlab        = "full profile url in gitlab"
 #  youtube       = "full profile url in youtube"
   whatsapp      = "https://wa.me/+33658912479"
+#  behance      = "https://www.behance.net/lanehuguenot"
 
 [markup]
   [markup.goldmark]
