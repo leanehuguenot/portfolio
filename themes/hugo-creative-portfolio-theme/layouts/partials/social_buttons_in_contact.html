@@ -54,4 +54,9 @@
     <i class="fa fa-whatsapp"></i>
   </a>
   {{end}}
+    {{ with .Site.Params.social.behance }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external behance" title="Behance" rel="me">
+    <i class="fa fa-behance"></i>
+  </a>
+  {{end}}
 </p>

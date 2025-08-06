@@ -30,9 +30,13 @@ enableRobotsTXT = true
   name = "A propos"
   url = "apropos/"
 
-  #[[params.navlinks]]
-  #name = "Affiches en vrac"
-  #url = "affiches/"  
+  [[params.navlinks]]
+  name = "Affiches en vrac"
+  url = "affiches/"  
+
+  [[params.navlinks]]
+  name = "Nooom"
+  url = "portfolio/nooom/"
 
   #[[params.navlinks]]
   #ame = "Contact"
